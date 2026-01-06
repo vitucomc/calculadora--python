@@ -1,18 +1,30 @@
-# 🧮 Calculadora Básica em Python
+# 🧮 Calculadora em Python
 
-Projeto desenvolvido durante os estudos iniciais da linguagem Python.
+Projeto desenvolvido com Python como parte do meu aprendizado em lógica de programação e estruturas condicionais.
 
 ## 📌 Funcionalidades
+
 - Soma
 - Subtração
 - Multiplicação
-- Divisão
+- Divisão (com tratamento de divisão por zero)
 
-## 🛠 Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
+
 - Python 3
 
+## 📚 Conceitos aplicados
+
+- Entrada de dados com `input()`
+- Conversão de tipos (`int`, `float`)
+- Estruturas condicionais (`if`, `elif`, `else`)
+- Operadores matemáticos
+- Validação de erros
+
 ## ▶️ Como executar o projeto
-1. Abra o terminal na pasta do projeto
-2. Execute o comando:
-   ```bash
-   python calculadora_basica.py
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/SEU_USUARIO/calculadora-python.git
+```
