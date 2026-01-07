@@ -1,19 +1,19 @@
-# 🧮 Calculadora em Python
+# Calculadora em Python
 
 Projeto desenvolvido com Python como parte do meu aprendizado em lógica de programação e estruturas condicionais.
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - Soma
 - Subtração
 - Multiplicação
 - Divisão (com tratamento de divisão por zero)
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python 3
 
-## 📚 Conceitos aplicados
+## Conceitos aplicados
 
 - Entrada de dados com `input()`
 - Conversão de tipos (`int`, `float`)
@@ -21,7 +21,7 @@ Projeto desenvolvido com Python como parte do meu aprendizado em lógica de prog
 - Operadores matemáticos
 - Validação de erros
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
 1. Clone o repositório:
 
